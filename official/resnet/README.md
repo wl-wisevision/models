@@ -29,7 +29,7 @@ Then to train the model, run the following:
 python cifar10_main.py
 ```
 
-Use `--data_dir` to specify the location of the CIFAR-10 data used in the previous step. There are more flag options as described in `cifar10_main.py`.
+    Use `--data_dir` to `` the location of the CIFAR-10 data used in the previous step. There are more flag options as described in `cifar10_main.py`.
 
 
 ## ImageNet
